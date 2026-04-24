@@ -1,16 +1,15 @@
 <h1>
   Olá!
   <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /> 
-   Eu sou Davi Bezerra Fraga
+   Eu sou Silas Kaleby Alexandre Sobrinho
 </h1>
 
-*Desenvolvedor Backend Python* | *Análise de Dados* | *Machine Learning* | *Automation*  
+*Desenvolvedor Full Stack* | *JavaScrift* | *Python* | *Automation* | *C* | <br>
 📍 Caucaia, Ceará, Brasil
 
 <div align="center">
   <a
-    href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&letterSpacing=1&duration=3500&pause=1000&color=B91C1C&center=true&vCenter=true&width=600&height=60&lines=Python+Developer;Back-end+%7C+APIs+%7C+Automation;Data+%7C+Analysis+%7C+Machine+Learning;Pandas+%7C+Scikit-learn+%7C+MySQL+%7C+FastAPI" alt="Typing SVG" />
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0006F7&background=23FF5100&center=true&width=435&lines=Desenvolvedor+Full+Stack+;JavaScrift;Python;Automation;C" alt="Typing SVG" /></a>
   </a>
 </div>
 
@@ -18,13 +17,21 @@
 
 ## 👨‍💻 Sobre Mim
 
-Sou estudante de *Engenharia de Software (1º semestre)* e apaixonado por transformar problemas complexos em soluções eficientes através da programação. Meu foco principal é o *desenvolvimento backend com Python*, onde aplico conceitos de lógica, automação de processos, análise de dados e machine learning para criar ferramentas que geram impacto real.
+Sou estudante do primeiro semestre de Engenharia de Software e tenho grande interesse em resolver desafios através da tecnologia. Gosto de pegar problemas complexos e transformá-los em soluções práticas e funcionais usando programação.
+
+Atualmente, estou focado no desenvolvimento backend com Python, explorando áreas como automação, análise de dados e machine learning. Busco constantemente evoluir minhas habilidades, criando projetos que não só reforçam meu aprendizado, mas também têm potencial para gerar impacto no mundo real.
 
 Atualmente, desenvolvo projetos práticos utilizando:
 - *Pandas* para manipulação e análise de dados
 - *Scikit-learn* para primeiros passos em machine learning
 - *MySQL* para modelagem e consultas de dados
 - *Git e GitHub* para versionamento e organização de código
+- Git e GitHub para versionamento e organização de código
+Python para desenvolvimento e prática de lógica de programação
+C para fortalecimento da base em programação e entendimento de baixo nível
+HTML e CSS para criação de páginas web simples
+Lógica de programação aplicada na resolução de problemas
+Arquitetura em nuvem (conceitos iniciais e fundamentos)
 
 Estou em busca de uma *oportunidade de Junior em Desenvolvimento de Software*, onde eu possa colaborar com times reais, aprender com profissionais experientes e contribuir com soluções bem estruturadas e de qualidade.
 
