@@ -10,7 +10,7 @@
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=800&center=true&vCenter=true&width=500&lines=Desenvolvedor+Full+Stack;JavaScript;Python;C;Automação" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=800&color=00BFFF&center=true&vCenter=true&width=500&lines=Desenvolvedor+Full+Stack;JavaScript;Python;C;Automacao" />
 </div>
 
 ---
