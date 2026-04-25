@@ -87,5 +87,5 @@ Estou em busca de uma *oportunidade de Junior em Desenvolvimento de Software*, o
 ## 🌐 Contatos e portifolio
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/kaleby-alexandre-352966376/"><img src="icon/linkedin.svg" alt="LinkedIn" width="50" height="50"></a> <a href="https://github.com/silaskaleby"><img src="icon/github.svg" alt="GitHub" width="50" height="50"></a> <a href="https://mail.google.com/mail/?view=cm&fs=1&to=kalebyalx@gmail.com"><img src="icon/gmail-dark.svg" alt="E-mail" width="50" height="50"></a> <a href="https://davibezerrafraga.vercel.app/"><img src="icon/Logo.png" alt="Portfólio" width="50" height="50"></a>
+  <a href="https://www.linkedin.com/in/kaleby-alexandre-352966376/"><img src="icon/linkedin.svg" alt="LinkedIn" width="50" height="50"></a> <a href="https://github.com/silaskaleby"><img src="icon/github.svg" alt="GitHub" width="50" height="50"></a> <a href="https://mail.google.com/mail/?view=cm&fs=1&to=kalebyalx@gmail.com"><img src="icon/gmail-dark.svg" alt="E-mail" width="50" height="50"></a> <a href="https://davibezerrafraga.vercel.app/"><img src="icon/Site.png" alt="Portfólio" width="50" height="50"></a>
 </div>
