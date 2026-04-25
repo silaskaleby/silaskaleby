@@ -1,16 +1,16 @@
-<h1>
+<h1 align="center">
   Olá!
-  <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /> 
-   Eu sou Silas Kaleby Alexandre Sobrinho
+  <img src="https://slackmojis.com/emojis/4965-dabbing/download" width="50" /> 
+  Eu sou Silas Kaleby Alexandre Sobrinho
 </h1>
 
-*Desenvolvedor Full Stack* | *JavaScrift* | *Python* | *Automation* | *C* | <br>
-📍 Caucaia, Ceará, Brasil
+<p align="center">
+  💻 Desenvolvedor Full Stack <br>
+  📍 Caucaia, Ceará, Brasil
+</p>
 
 <div align="center">
-  <a
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0006F7&background=23FF5100&center=true&width=435&lines=Desenvolvedor+Full+Stack+;JavaScrift;Python;Automation;C" alt="Typing SVG" /></a>
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=800&center=true&vCenter=true&width=500&lines=Desenvolvedor+Full+Stack;JavaScript;Python;C;Automação" />
 </div>
 
 ---
@@ -22,16 +22,14 @@ Sou estudante do primeiro semestre de Engenharia de Software e tenho grande inte
 Atualmente, estou focado no desenvolvimento backend com Python, explorando áreas como automação, análise de dados e machine learning. Busco constantemente evoluir minhas habilidades, criando projetos que não só reforçam meu aprendizado, mas também têm potencial para gerar impacto no mundo real.
 
 Atualmente, desenvolvo projetos práticos utilizando:
-- *Pandas* para manipulação e análise de dados
-- *Scikit-learn* para primeiros passos em machine learning
-- *MySQL* para modelagem e consultas de dados
-- *Git e GitHub* para versionamento e organização de código
-- Git e GitHub para versionamento e organização de código
-Python para desenvolvimento e prática de lógica de programação
-C para fortalecimento da base em programação e entendimento de baixo nível
-HTML e CSS para criação de páginas web simples
-Lógica de programação aplicada na resolução de problemas
-Arquitetura em nuvem (conceitos iniciais e fundamentos)
+
+- **Git e GitHub** para versionamento e organização de código  
+- **Python** para desenvolvimento backend, automação e prática de lógica de programação  
+- **C** para fortalecimento da base em programação e entendimento de baixo nível  
+- **JavaScript** para interatividade e desenvolvimento de aplicações web  
+- **HTML e CSS** para criação de interfaces e páginas web  
+- **Lógica de programação** aplicada na resolução de problemas  
+- **Arquitetura em nuvem** (conceitos iniciais e fundamentos)  
 
 Estou em busca de uma *oportunidade de Junior em Desenvolvimento de Software*, onde eu possa colaborar com times reais, aprender com profissionais experientes e contribuir com soluções bem estruturadas e de qualidade.
 
@@ -89,5 +87,14 @@ Estou em busca de uma *oportunidade de Junior em Desenvolvimento de Software*, o
 ## 🌐 Contatos e portifolio
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/davizf"><img src="icon/linkedin.svg" alt="LinkedIn" width="50" height="50"></a> <a href="https://github.com/Davibzf"><img src="icon/github.svg" alt="GitHub" width="50" height="50"></a> <a href="mailto:davibezerrafraga@gmail.com"><img src="icon/gmail-dark.svg" alt="E-mail" width="50" height="50"></a> <a href="https://davibezerrafraga.vercel.app/"><img src="icon/Logo.png" alt="Portfólio" width="50" height="50"></a>
+  <a href="https://www.linkedin.com/in/kaleby-alexandre-352966376/" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="50" height="50">
+  </a>
+  <a href="https://github.com/silaskaleby" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub" width="50" height="50">
+  </a>
+  <a href="mailto:kalebyalx@gmail.com">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="E-mail" width="50" height="50">
+  </a>
 </div>
+✅ O que fo
