@@ -1,113 +1,74 @@
-<h1 align="center">
-  Olá!
-  <img
-    src="https://slackmojis.com/emojis/4965-dabbing/download"
-    alt="Emoji animado"
-    width="50"
-  />
-  Eu sou Silas Kaleby Alexandre Sobrinho
-</h1>
-
 <p align="center">
-  💻 Desenvolvedor Full Stack<br />
-  📍 Caucaia, Ceará, Brasil
+  <a href="https://portifolio-v4.vercel.app">
+    <img
+      src="assets/identity/logo-symbol-transparent.png"
+      alt="Logo SK de Silas Kaleby"
+      width="180"
+    />
+  </a>
 </p>
 
-<div align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=800&color=00BFFF&center=true&vCenter=true&width=500&lines=Desenvolvedor+Full+Stack;JavaScript;Python;C;Automa%C3%A7%C3%A3o"
-    alt="Animação apresentando minhas principais habilidades"
-  />
-</div>
+<h1 align="center">Olá, eu sou Silas Kaleby Alexandre Sobrinho</h1>
+
+<p align="center">
+  Estudante de Engenharia de Software • Desenvolvedor em formação<br />
+  Caucaia, Ceará, Brasil
+</p>
 
 ---
 
 ## 👨‍💻 Sobre mim
 
-Sou estudante do primeiro semestre de Engenharia de Software e tenho grande interesse em resolver desafios por meio da tecnologia. Gosto de transformar problemas complexos em soluções práticas e funcionais utilizando programação.
+Sou estudante de **Engenharia de Software na Estácio**, atualmente no segundo semestre. Desenvolvo projetos próprios para ampliar minha experiência prática e consolidar os conhecimentos adquiridos durante a graduação.
 
-Meu foco atual está no desenvolvimento backend com Python. Também estou explorando áreas como automação, análise de dados e machine learning.
+Meu foco atual está em **desenvolvimento web, back-end e automações**, utilizando principalmente Python e JavaScript. Também crio integrações, aplicações responsivas e bots para Telegram.
 
-Busco constantemente evoluir minhas habilidades por meio da criação de projetos que reforçam meu aprendizado e que também possam gerar impacto no mundo real.
-
-Desenvolvo projetos práticos utilizando:
-
-- **Git e GitHub** para versionamento e organização de código;
-- **Python** para desenvolvimento backend, automação e prática de lógica de programação;
-- **C** para fortalecer minha base em programação e compreender conceitos de baixo nível;
-- **JavaScript** para interatividade e desenvolvimento de aplicações web;
-- **HTML e CSS** para criação de páginas e interfaces web;
-- **Lógica de programação** aplicada à resolução de problemas;
-- **Arquitetura em nuvem**, estudando seus conceitos e fundamentos iniciais.
-
-Estou em busca de uma **oportunidade como desenvolvedor de software júnior**, na qual eu possa colaborar com equipes, aprender com profissionais experientes e contribuir para o desenvolvimento de soluções bem estruturadas e de qualidade.
+Estou em busca da minha **primeira oportunidade de estágio na área de tecnologia**, onde eu possa aprender com uma equipe, contribuir com soluções práticas e continuar evoluindo como desenvolvedor.
 
 ---
 
-## 🛠️ Tecnologias
+## 🛠️ Tecnologias e habilidades
 
-### Linguagens
-
-<div align="center">
-  <img src="icon/c.png" alt="C" width="50" />
-  &nbsp;&nbsp;
-  <img src="icon/python-dark.svg" alt="Python" width="50" />
-  &nbsp;&nbsp;
-  <img src="icon/javascript.png" alt="JavaScript" width="50" />
-  &nbsp;&nbsp;
-  <img src="icon/sql.png" alt="SQL" width="50" />
-</div>
-
-### Frameworks e bibliotecas
-
-<div align="center">
-  <img src="icon/fastapi.svg" alt="FastAPI" width="50" />
-  &nbsp;&nbsp;
-  <img src="icon/Pandas.svg" alt="Pandas" width="50" />
-  &nbsp;&nbsp;
-  <img src="icon/scikitlearn-dark.svg" alt="Scikit-learn" width="50" />
-  &nbsp;&nbsp;
-  <img src="icon/Plotly.png" alt="Plotly" width="50" />
-</div>
-
-### Bancos de dados
-
-<div align="center">
-  <img src="icon/mysql-dark.svg" alt="MySQL" width="50" />
-  &nbsp;&nbsp;
-  <img src="icon/sqlite.png" alt="SQLite" width="50" />
-</div>
-
-### Versionamento e deploy
-
-<div align="center">
-  <img src="icon/github.svg" alt="GitHub" width="50" />
-  &nbsp;&nbsp;
-  <img src="icon/git.svg" alt="Git" width="50" />
-  &nbsp;&nbsp;
-  <img src="icon/gitlab-dark.svg" alt="GitLab" width="50" />
-  &nbsp;&nbsp;
-  <img src="icon/vercel-dark.svg" alt="Vercel" width="50" />
-</div>
+| Área | Tecnologias e práticas |
+| --- | --- |
+| Desenvolvimento web | HTML5, CSS3, JavaScript, React e Next.js |
+| Back-end e automações | Python, Node.js, integrações e bots para Telegram |
+| Bancos de dados | PostgreSQL e Supabase |
+| Ferramentas e deploy | Git, GitHub e Vercel |
 
 ---
 
-## 🌐 Contatos e portfólio
+## 🚀 Projetos e portfólio
+
+- [**Portfólio V4**](https://portifolio-v4.vercel.app) — apresentação dos meus projetos, habilidades, serviços e formas de contato.
+- [**World Tempo Bot**](https://github.com/silaskaleby/world-tempo-bot) — bot para Telegram desenvolvido em Python para consultas de clima e conversão de horários.
+- [**Jogo de Damas**](https://github.com/silaskaleby/jogo-damas) — jogo para navegador desenvolvido com HTML, CSS e JavaScript.
+
+Veja os demais projetos nos [meus repositórios](https://github.com/silaskaleby?tab=repositories).
+
+---
+
+## 🌐 Contatos
 
 <div align="center">
   <a href="https://www.linkedin.com/in/silas-kaleby-352966376/">
-    <img src="icon/linkedin.svg" alt="LinkedIn" width="50" height="50" />
+    <img src="icon/linkedin.svg" alt="LinkedIn" title="LinkedIn" width="46" height="46" />
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/silaskaleby">
-    <img src="icon/github.svg" alt="GitHub" width="50" height="50" />
+    <img src="icon/github.svg" alt="GitHub" title="GitHub" width="46" height="46" />
   </a>
   &nbsp;&nbsp;
   <a href="mailto:kalebyalx@gmail.com">
-    <img src="icon/gmail-dark.svg" alt="E-mail" width="50" height="50" />
+    <img src="icon/gmail-dark.svg" alt="E-mail" title="E-mail" width="46" height="46" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://silaskalebydev.vercel.app/">
-    <img src="icon/SITE.png" alt="Portfólio" width="50" height="50" />
+  <a href="https://portifolio-v4.vercel.app">
+    <img
+      src="assets/identity/logo-symbol-transparent.png"
+      alt="Portfólio"
+      title="Portfólio V4"
+      width="58"
+    />
   </a>
 </div>
